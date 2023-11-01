@@ -5,7 +5,7 @@ Source or Provider: Coursera
 
 Note: The content here is from the course for me to re-visit without going back to the course.
 ## Installation required
-!pip install openai
+- !pip install openai
 
 - get openai key 
 ## Guidelines for Prompting
