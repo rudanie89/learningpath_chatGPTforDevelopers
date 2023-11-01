@@ -1,6 +1,8 @@
 # learningpath_chatGPTforDevelopers 
 Course: ChatGPT Promt Engineering for Developers
+
 Source or Provider: Coursera
+
 Note: The content here is from the course for me to re-visit without going back to the course.
 ## Installation required
 pip install openai
